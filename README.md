@@ -1,4 +1,4 @@
-# banka
+# AYCHBee
 A light-weight core banking application that supports a single bank and allows users create bank accounts and make withdrawals &amp; deposits by visiting a local branch
 
 # Website
@@ -63,4 +63,4 @@ POST Request -> localhost:5000/api/v1/transactions/${account-number}/credit
 
 ## Author
 
-Toluwalope Odueke
+Jean Wallet
